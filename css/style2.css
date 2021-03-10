@@ -14,7 +14,9 @@ nav > ul > li {
 .left_column {
     background-color: rgb(161, 145, 145);
 }
-
+.primary_color {
+    background-color: green;
+}
 .right_column {
     background-color: rgb(180, 163, 245);
 }
