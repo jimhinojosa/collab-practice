@@ -1,17 +1,22 @@
 header {
     background-color: rgb(252, 191, 191);
 }
-
+nav > ul {
+    list-style: none;
+    padding: 2px;
+}
+nav > ul > li {
+    margin: 0 14px;
+    padding: 2px 4px;
+    background-color: lightblue;
+    border-radius: 10px;
+}
 .left_column {
     background-color: rgb(161, 145, 145);
 }
 
 .right_column {
     background-color: rgb(180, 163, 245);
-}
-
-.col {
-    border: 1px solid;
 }
 
 footer {
