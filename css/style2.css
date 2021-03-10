@@ -1,0 +1,19 @@
+header {
+    background-color: rgb(252, 191, 191);
+}
+
+.left_column {
+    background-color: rgb(161, 145, 145);
+}
+
+.right_column {
+    background-color: rgb(180, 163, 245);
+}
+
+.col {
+    border: 1px solid;
+}
+
+footer {
+    background-color: rgb(77, 158, 250);
+}
